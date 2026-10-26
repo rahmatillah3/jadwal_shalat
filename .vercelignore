@@ -1,0 +1,13 @@
+# Git
+.git
+.gitignore
+
+# Dokumentasi
+README.md
+
+# Editor & OS files
+.vscode
+.idea
+*.log
+Thumbs.db
+.DS_Store
